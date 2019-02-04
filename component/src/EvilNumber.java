@@ -43,7 +43,6 @@ public class EvilNumber {
                 if(count.mod(BigInteger.TWO) == BigInteger.ZERO)
                 {
                     EvilNumbers.add(rangeFrom);
-                    System.out.println(rangeFrom);
                 }
 
 
